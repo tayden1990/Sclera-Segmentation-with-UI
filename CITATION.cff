@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Akbari Saeed"
+    given-names: "Taher"
+    orcid: "https://orcid.org/0000-0002-9517-9773"
+title: "Sclera Segmentation with Mask R-CNN"
+version: 1.0.0
+date-released: 2025
+url: "https://github.com/tayden1990/Sclera-Segmentation-with-UI"

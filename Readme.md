@@ -1,7 +1,6 @@
 # Sclera Segmentation with UI
 
 <div align="center">
-   <img src="/assets/sclera_banner.png" alt="Sclera Segmentation Banner" width="800"/>
    <br><br>
    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="/assets/training_tab.png" alt="Training Interface" width="400"/>

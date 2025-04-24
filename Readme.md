@@ -9,7 +9,7 @@
       <img src="/assets/evaluation_tab.png" alt="Evaluation Interface" width="400"/>
       <img src="/assets/info_tab.png" alt="Information Interface" width="400"/>
       <img src="/assets/results.png" alt="Results" width="400"/>
-      <img src="/assets/About.png" alt="About" width="400"/>
+      <img src="/assets/about.png" alt="About" width="400"/>
    </div>
    <p><em>Explore the key interfaces of our Sclera Segmentation tool</em></p>
 </div>
